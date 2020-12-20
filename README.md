@@ -1,4 +1,4 @@
-# Get paid with Stripe in ASP.NET &amp; C # - Web Forms || Core MVC
+# Accept payments with Stripe in ASP.NET & C# - ASP.NET Web Forms || ASP.NET Core MVC
 
 ## Demo: https://techtolia.com/Stripe/
 
