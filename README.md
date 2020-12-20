@@ -1,6 +1,6 @@
 # Get paid with Stripe in ASP.NET &amp; C # - Web Forms || Core MVC
 
-### Demo: https://techtolia.com/Stripe/
+## Demo: https://techtolia.com/Stripe/
 
 The application, ASP.NET Web Forms or Core MVC Web Application builded for Stripe Checkout custom payment forms on the web.
 
