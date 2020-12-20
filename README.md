@@ -1,5 +1,4 @@
-# Stripe
-### Get paid with Stripe in ASP.NET &amp; C # - Web Forms || Core MVC
+# Get paid with Stripe in ASP.NET &amp; C # - Web Forms || Core MVC
 
 ### Demo: https://techtolia.com/Stripe/
 
