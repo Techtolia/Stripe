@@ -1,7 +1,7 @@
 # Stripe
 ### Get paid with Stripe in ASP.NET &amp; C # - Web Forms || Core MVC
 
-### Demo https://techtolia.com/Stripe/
+### Demo: https://techtolia.com/Stripe/
 
 The application, ASP.NET Web Forms or Core MVC Web Application builded for Stripe Checkout custom payment forms on the web.
 
@@ -11,23 +11,23 @@ The application supports 3D Secure 2 for card payments. Supported Card Brands: V
 
 Before use a Payment Method in Live Mode, it must be activated on the Stripe Dashboard, no need in Test Mode. Supported Payment Methods:
 
-- Alipay (AUD, CAD, EUR, GBP, HKD, JPY, NZD, SGD, USD)
+* Alipay (AUD, CAD, EUR, GBP, HKD, JPY, NZD, SGD, USD)
 
-- WeChat Pay (AUD, CAD, EUR, GBP, HKD, JPY, NZD, SGD, USD)
+* WeChat Pay (AUD, CAD, EUR, GBP, HKD, JPY, NZD, SGD, USD)
 
-- Bancontact (EUR): Belgium
+* Bancontact (EUR): Belgium
 
-- EPS (EUR): Austria
+* EPS (EUR): Austria
 
-- giropay (EUR): Germany
+* giropay (EUR): Germany
 
-- iDEAL (EUR): Netherlands
+* iDEAL (EUR): Netherlands
 
-- Multibanco (EUR): Portugal
+* Multibanco (EUR): Portugal
 
-- Przelewy24 (EUR, PLN): Poland
+* Przelewy24 (EUR, PLN): Poland
 
-- SOFORT (EUR): Germany, Austria, Belgium, Spain, Italy, Netherlands
+* SOFORT (EUR): Germany, Austria, Belgium, Spain, Italy, Netherlands
 
 Elements are completely customizable. You can style Elements to match the look and feel of your site, providing a seamless checkout experience for your customers.
 
